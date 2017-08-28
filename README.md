@@ -1,0 +1,2 @@
+# autologin
+lk autologin test
